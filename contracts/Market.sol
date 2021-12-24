@@ -165,3 +165,7 @@ contract Market is ReentrancyGuard, Ownable {
 	  }
 
 }
+
+//Thanks to:
+//https://github.com/dabit3/polygon-ethereum-nextjs-marketplace/
+//https://github.com/husnn/web3-tutorials/blob/master/02-nft-marketplace/contracts/Market.sol
